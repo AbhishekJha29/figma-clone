@@ -8,7 +8,7 @@ export const Navbar = () => {
       <div className="container mx-auto px-6 py-3">
         <div className="flex justify-between items-center">
           <div className="text-xl font-semibold text-gray-700">
-            <Link href="/">Figma Clone</Link>
+            <Link href="/">Draftify</Link>
           </div>
           <div className="flex items-center">
             <Link href="/signin" className="text-gray-600 hover:text-gray-800 px-3 py-2">
